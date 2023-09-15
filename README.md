@@ -1,2 +1,2 @@
-# TugasPSO
- Versi terbaru Tugas PSO Signal Filtering
+# TugasPSO1
+ Tugas untuk PSO versi terbaru (9/15/2023)
